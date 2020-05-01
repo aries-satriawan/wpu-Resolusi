@@ -2,8 +2,8 @@ RENCANA CONTENT WPU
 
 - Javascript
   * ES6
-  * Framework Javascript
+  * Framework 
+- Struktur data dasar
 - PHP Frameworks
 - Interview
 - Vlogs
-- Menambah react native
